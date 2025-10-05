@@ -1,4 +1,4 @@
-// 以下は2入力1出力のNN
+//以下は2入力，1出力の2層ニューラルネットワークである
 
 #include <stdio.h>
 #include <stdlib.h> //rand関数を使うために必要
@@ -124,3 +124,4 @@ int main(void){
         }
     }
 }
+
