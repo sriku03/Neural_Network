@@ -1,4 +1,5 @@
-//以下は1入力，1出力の1層ニューラルネットワークである
+//以下は2入力，1出力の1層ニューラルネットワークである
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
@@ -71,4 +72,5 @@ int main(){
     }
 
 }
+
 
