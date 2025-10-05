@@ -1,3 +1,4 @@
+//以下は２入力，１出力の２層ニューラルネットワークである
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
@@ -68,4 +69,5 @@ int main(){
     else{
         printf("結果は%d", 1);
     }
+
 }
